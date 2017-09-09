@@ -5,24 +5,25 @@ html5
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title>Using Tags</title>
+  <title>Building from Scratch</title>
 </head>
 <body>
-  <q>
-    Wow this is quite Astonishing
-  </q>
-  <hr>
-  let me see  how it works
-  </hr>
-  <p>
-  they said it is used in<br> poetry
-  </P>
-<pre>
-        <h1>Page Heading</h1>
-        <p>And here is the first paragraph</p>
-    </pre>
-<blockquote>
-now we are using block quote
-</blockquote>
-  </body>
+    <h1>
+        How to build a Web page
+    </h1>
+    <p>This is how we're going to do this</p>
+    <ol>
+    <li>Find some famous quotes</li>
+        <li>Put them on your Page</li>
+        <li>Find some more</li>
+    </ol>
+    <blockquote>
+        <hr>
+    Anyone stops learning is old,anyone who learns something stays young
+   <hr>
+    </blockquote>
+    
+
+</body>
 </html>
+
